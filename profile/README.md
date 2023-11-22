@@ -1,3 +1,4 @@
+![image](https://github.com/pipetcpt/introduction/assets/6946821/d71b759a-f082-4de8-8ef4-13692a7e79a0)
 
 <!--
 
