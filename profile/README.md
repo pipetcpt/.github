@@ -1,6 +1,6 @@
-![image](https://github.com/pipetcpt/introduction/assets/6946821/d71b759a-f082-4de8-8ef4-13692a7e79a0)
 
 <!--
+![image](https://github.com/pipetcpt/introduction/assets/6946821/d71b759a-f082-4de8-8ef4-13692a7e79a0) 비임상-약동학
 
 **Here are some ideas to get you started:**
 
