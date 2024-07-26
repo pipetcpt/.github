@@ -1,8 +1,8 @@
-![image](https://content-crbio.contentservice.kr/content/editor/offline_lecture/2024/07/01/125033_79986.jpg)
+
 
 <!--
 ![image](https://github.com/pipetcpt/introduction/assets/6946821/d71b759a-f082-4de8-8ef4-13692a7e79a0) 비임상-약동학
-
+![image](https://content-crbio.contentservice.kr/content/editor/offline_lecture/2024/07/01/125033_79986.jpg)
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
